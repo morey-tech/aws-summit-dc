@@ -8,7 +8,7 @@
 #     namespace: argocd
 #   source:
 #     path: apps/
-#     repoURL: 'https://github.com/<repo>'
+#     repoURL: 'https://github.com/morey-tech/aws-summit-dc'
 #     targetRevision: HEAD
 #     directory: {}
 #   project: default
