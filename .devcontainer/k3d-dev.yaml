@@ -2,7 +2,7 @@
 apiVersion: k3d.io/v1alpha5
 kind: Simple
 metadata:
-  name: dev
+  name: eks
 servers: 1
 kubeAPI:
   hostIP: "0.0.0.0"
